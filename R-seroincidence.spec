@@ -4,7 +4,7 @@
 #
 Name     : R-seroincidence
 Version  : 2.0.0
-Release  : 29
+Release  : 30
 URL      : https://cran.r-project.org/src/contrib/seroincidence_2.0.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/seroincidence_2.0.0.tar.gz
 Summary  : Estimating Infection Rates from Serological Data
